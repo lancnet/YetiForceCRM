@@ -109,4 +109,6 @@ cd /etc/apache2/sites-available/ && sudo a2dissite 000-default.conf && sudo a2en
 
 • Configurações Posteriores
 
-    Encryption method: aes-256-cdc ; Encryption Key: **CRIAR UMA SENHA SEGURA** ; Inicialization vector: **CRIAR UMA SENHA SEGURA**
+    Encryption method: aes-256-cdc 
+    Encryption Key: **CRIAR UMA SENHA SEGURA** 
+    Inicialization vector: **CRIAR UMA SENHA SEGURA**
