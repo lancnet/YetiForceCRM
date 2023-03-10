@@ -1,5 +1,5 @@
 # YetiForceCRM 6.4.0 - Debian 10 Buster
-Arquivos de Suporte para Instalação do YetiForce CRM 6.4.0 no Debian 10 Buster
+Suporte para Instalação do YetiForce CRM 6.4.0 no Debian 10 Buster
 
 ### Instalação das dependências
 ```
@@ -12,14 +12,14 @@ max_input_time = 600
 memory_limit = 512M
 upload_max_filesize = 100M
 post_max_size = 100M
-date.timezone = America/Manaus          _//substituir pelo timezone de sua região
+date.timezone = America/Manaus          //substituir pelo timezone de sua região
 session.use_strict_mode = 1
 session.cookie_samesite = Strict
-error_reporting = E_ALL & ~E_NOTICE 	_//procurar o que tá habilitado e alterar_
+error_reporting = E_ALL & ~E_NOTICE 	//procurar o que tá habilitado e alterar
 default_socket_timeout = 600
-short_open_tag = On		                _//procurar o que tá habilitado e alterar_
+short_open_tag = On		                //procurar o que tá habilitado e alterar
 max_input_vars = 10000
-output_buffering=On 		            _//procurar o que tá habilitado e alterar_
+output_buffering=On 		            //procurar o que tá habilitado e alterar
 session.gc_probability = 1
 auto_detect_line_endings=On
 opcache.enable_cli=1
