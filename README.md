@@ -1,2 +1,2 @@
 # yetiforcecrm
-Arquivos de Suporte para Instalação do YetiForce CRM no Debian 10 Buster
+Arquivos de Suporte para Instalação do YetiForce CRM 6.4.0 no Debian 10 Buster
